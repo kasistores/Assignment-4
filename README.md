@@ -19,6 +19,6 @@ Create a diagram of how the different parts of the server interact with one anot
 
 ### Images
 
-![alt text](./img/diagram.png "test result")
+![alt text](./img/diagram.jpg "test result")
 ![alt text](./img/test1.png "test result")
 ![alt text](./img/test2.png "test result")
